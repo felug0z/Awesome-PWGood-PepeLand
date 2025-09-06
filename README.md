@@ -5,7 +5,7 @@
 Официальный сайт Пвгуда с различными вещами связанными с ним. Здесь собраны такие вещи, как:
 + [Заказ музыки](https://goood.pw/music/requests)
 + [Правила нарезок стримов Пвгуда](https://goood.pw/cuts)
-+ [Пройденные игры на стримаъ](https://goood.pw/games)
++ [Пройденные игры на стримах](https://goood.pw/games)
 + [Правила Twitch, Discord и Telegram чатов](https://goood.pw/rules)
 + [Расширения для смайлов в чате](https://goood.pw/extensions)
 + [Словарь смайлов](https://goood.pw/emotes)
