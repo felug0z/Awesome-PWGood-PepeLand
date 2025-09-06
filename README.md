@@ -14,4 +14,4 @@
 Кому-то реально не нужна нога Пвгуда?
 
 ## [PepeLand Helper](https://pplmods.ru/)
-Мод, помогающий игроку PepeLand'а в навигации. Мод можно скачать [здесь](https://modrinth.com/mod/ppl-helper). Также, тут собраны [Ресурс-паки и моды комьюнити](http://pplmods.ru/utils/community) и многое другое.
+Мод, помогающий игроку ПепеЛэнда в навигации, мод можно скачать [здесь](https://modrinth.com/mod/ppl-helper). Также, тут собраны [Ресурс-паки и моды комьюнити](http://pplmods.ru/utils/community) и многое другое.
