@@ -16,7 +16,7 @@
 + [Всё о Discord-сервере Пвгуда](https://goood.pw/huh/discord)
 + [Контакты для сотрудничества](https://goood.pw/commercial)
 
-Сайт сделал [rilaveon](https://github.com/rilaveon).
+Сайт сделал [Рилавеон](https://github.com/rilaveon).
 
 ## [Записи стримов Пугода](https://neolegshishov.github.io/PwgoodChatRecords)
 Сайт с записями стримов Пугода и яркими моментами. Зеркало канала "Записи стримов Пугода" на Ютубе. 
@@ -25,6 +25,8 @@
 
 ## [Сайт ресурс-пака ПепеЛэнда](https://pplrp.wiki) 
 Сайт ресурс-пака ПепеЛэнда, где можно посмотреть какие костюмы/модельки есть в нём.
+
+ Сайт сделал [Манук](https://github.com/manukek).
 
 ## [Нога Пвгуда](http://baad.pw/noga)
 Кому-то реально не нужна нога Пвгуда?
