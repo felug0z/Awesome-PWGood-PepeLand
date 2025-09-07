@@ -21,7 +21,7 @@
 ## [Записи стримов Пугода](https://neolegshishov.github.io/PwgoodChatRecords)
 Сайт с записями стримов Пугода и яркими моментами. Зеркало канала "Записи стримов Пугода" на Ютубе. 
 
-Сайт сделал [neolegshishov](https://github.com/neolegshishov/). [Ссылка на репозиторий.](https://github.com/neolegshishov/PwgoodChatRecords)
+Сайт сделал [neolegshishov](https://github.com/neolegshishov). [Ссылка на репозиторий.](https://github.com/neolegshishov/PwgoodChatRecords)
 
 ## [Сайт ресурс-пака ПепеЛэнда](https://pplrp.wiki) 
 Сайт ресурс-пака ПепеЛэнда, где можно посмотреть какие костюмы/модельки есть в нём.
@@ -53,3 +53,5 @@
 
 ## [Растянутый Пвгуд HD 4K](https://pw-inf.vercel.app/)
 Пвгуд, растягивающийся до бесконечности. Не буду спрашивать, зачем это нам, но оно нам нужно.
+
+Сайт сделал [iulh](https://github.com/iulh). [Ссылка на репозиторий.](https://github.com/iulh/pw-inf)
