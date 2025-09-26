@@ -44,7 +44,7 @@
 ## [Повязки ПепеЛэнда](https://pplbandage.ru/)
 Сайт с уникальными повязками ПепеЛэнда. Здесь можно надеть их на свой скин, а так-же нарисовать свою и выложить в мастерскую.
 
-Сайт сделал [AndcoolSystems](https://github.com/AndcoolSystems).
+Сайт сделал [AndcoolSystems](https://github.com/Andcool-Systems).
 
 ## [Когда новое видео Модди?](https://when.moddy.video/)
 Счетчик дней с момента выхода последнего видео Модди. (оно когда-нибудь выйдет Clueless)
