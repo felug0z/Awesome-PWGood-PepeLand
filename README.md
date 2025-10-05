@@ -1,7 +1,7 @@
 # Awesome-PWGood-PepeLand
 Полезные вещи для PWGood/PepeLand коммьюнити.  
 
-[<img src="assets/awesome.svg">](https://awesome.re/) [<img src="assets/Made for_ PepeLand.svg">](https://pepeland.net/)
+[<img src="assets/awesome.svg">](https://awesome.re/) [<img src="assets/made by_ fELuGOz.svg">](https://flgz.xyz/) [<img src="assets/Made for_ PepeLand.svg">](https://pepeland.net/) 
 
 ## [Сайт Пвгуда (настоящего 🙀)](https://goood.pw/)
 Официальный сайт Пвгуда с различными вещами связанными с ним. Здесь собраны такие вещи, как:
