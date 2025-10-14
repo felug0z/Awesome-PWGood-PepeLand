@@ -33,12 +33,12 @@
 ## [Нога Пвгуда](http://baad.pw/noga)
 Кому-то реально не нужна нога Пвгуда?
 
-## [PepeLand Helper](https://pplmods.ru/)
+## [PepeLand Helper](https://pplh.ru/)
 Мод, помогающий игроку ПепеЛэнда в навигации, мод можно скачать [здесь](https://modrinth.com/mod/ppl-helper).
 
 Сайт и мод сделал [Kel_Cuprum](https://github.com/kel-cu).
 
-## [Ресурс-паки и моды комьюнити](http://pplmods.ru/utils/community)
+## [Ресурс-паки и моды комьюнити](http://pplh.ru/utils/community)
 Здесь собраны моды/ресурс-паки, созданные сообществом Пвгуда.
 
 Сайт сделал [Kel_Cuprum](https://github.com/kel-cu).
